@@ -1,8 +1,8 @@
 schedule:
   year:
-    2023
+    - 2023
   program:
-    java
+    - java
   lessons:
-    - date: "2022-02-01"
-    - description: "lesson 1"
+    - date: 2022-02-01
+    - description: lesson 1
