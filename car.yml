@@ -1,2 +1,9 @@
 car:
   manufacturer: volvo
+  model: v70
+  year: "2002"
+  attributes:
+    - Color: Red
+    - Transmission: Automatic
+    - Fuel Type: Gasoline
+  reg: "abc123"
