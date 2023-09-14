@@ -1,3 +1,12 @@
 person:
   name:
     first_name: Stig
+    last_name: Sæther Bakken
+  age:
+    30
+  class:
+    -Java
+  start_year:
+    2000
+  hobbies:
+    -Soccer
