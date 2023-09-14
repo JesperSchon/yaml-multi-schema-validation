@@ -4,6 +4,4 @@ car:
   year: "2002"
   attributes:
     - Color: "Red"
-    - Transmission: "Automatic"
-    - Fuel: "Diesel"
   reg: "abc123"
