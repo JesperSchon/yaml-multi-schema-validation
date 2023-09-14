@@ -3,5 +3,5 @@ car:
   model: v70
   year: "2002"
   attributes:
-    - Color: "Red"
+    - Color
   reg: "abc123"
