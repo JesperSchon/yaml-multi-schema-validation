@@ -3,7 +3,7 @@ car:
   model: v70
   year: "2002"
   attributes:
-    - Color: Red
-    - Transmission: Automatic
-    - Fuel Type: Gasoline
+    - Color: "Red"
+    - Transmission: "Automatic"
+    - Fuel: "Diesel"
   reg: "abc123"
